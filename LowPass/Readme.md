@@ -217,7 +217,7 @@ Additionally, distributed filters inherently deviate from the ideal low-pass res
 * transmission line losses
 * imperfect impedance transitions.
 
----
+![Milled low-pass filter](images/img_02.png "Milled low-pass filter")
 
 # Conclusion
 
