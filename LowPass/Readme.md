@@ -1,6 +1,6 @@
 # Design and Characterization of a Microstrip Distributed Low-Pass Filter
 
-![ADS low-pass filter schematic](/images/img_01.png "ADS low-pass filter schematic")
+![ADS low-pass filter schematic](LowPass/images/img_01.png "ADS low-pass filter schematic")
 
 ## Project Overview
 
