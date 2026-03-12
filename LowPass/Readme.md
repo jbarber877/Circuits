@@ -1,6 +1,6 @@
 # Design and Characterization of a Microstrip Distributed Low-Pass Filter
 
-![ADS low-pass filter schematic](/images/img01.png "ADS low-pass filter schematic")
+![ADS low-pass filter schematic](/images/img_01.png "ADS low-pass filter schematic")
 
 ## Project Overview
 
@@ -89,7 +89,7 @@ These elements model:
 * impedance discontinuities
 * effective electrical length changes
 
-![ADS low-pass filter schematic with Mstep](/images/img03.png "ADS low-pass filter schematic with Mstep")
+![ADS low-pass filter schematic with Mstep](/images/img_03.png "ADS low-pass filter schematic with Mstep")
 
 ---
 
@@ -101,7 +101,7 @@ A higher-level schematic was created to simultaneously simulate:
 * discontinuity model
 * measured VNA data
 
-![ADS low-pass filter high level](/images/img04.png "ADS low-pass filter high level")
+![ADS low-pass filter high level](/images/img_04.png "ADS low-pass filter high level")
 
 
 ---
@@ -163,7 +163,7 @@ The measurement results were imported into ADS to compare with the simulation mo
 
 The VNA measurement shows the actual transmission and reflection characteristics of the fabricated filter.
 
-![VNA measurement](/images/img05.png "VNA Measurement")
+![VNA measurement](/images/img_05.png "VNA Measurement")
 
 Key observations:
 
@@ -177,7 +177,7 @@ Key observations:
 
 The measured data was plotted alongside the ADS simulation models.
 
-![S-params vs VNA](/images/img06.png "S-Params vs VNA")
+![S-params vs VNA](/images/img_06.png "S-Params vs VNA")
 
 The comparison shows good agreement between measurement and simulation. Small deviations are expected due to:
 
